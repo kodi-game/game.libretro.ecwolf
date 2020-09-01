@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<settings>
+	<category label="30000">
+		<setting label="30001" type="select" id="ecwolf-adlib-volume" values="20|Off|1|2|3|1|2|3|4|5|6|7|8|9|10|11|12|13|14|15|16|17|18|19" default="20"/>
+		<setting label="30002" type="select" id="ecwolf-alwaysrun" values="disabled|enabled" default="disabled"/>
+		<setting label="30003" type="select" id="ecwolf-am-drawtexturedfloors" values="disabled|enabled" default="disabled"/>
+		<setting label="30004" type="select" id="ecwolf-am-drawtexturedwalls" values="disabled|enabled" default="disabled"/>
+		<setting label="30005" type="select" id="ecwolf-am-overlay" values="off|on|both" default="off"/>
+		<setting label="30006" type="select" id="ecwolf-am-pause" values="disabled|enabled" default="disabled"/>
+		<setting label="30007" type="select" id="ecwolf-am-rotate" values="off|on|overlay_only" default="off"/>
+		<setting label="30008" type="select" id="ecwolf-am-showratios" values="disabled|enabled" default="disabled"/>
+		<setting label="30009" type="select" id="ecwolf-am-texturedoverlay" values="disabled|enabled" default="disabled"/>
+		<setting label="30010" type="select" id="ecwolf-analog-deadzone" values="15%|0%|5%|10%|20%|25%|30%" default="15%"/>
+		<setting label="30011" type="select" id="ecwolf-analog-move-sensitivity" values="20|Off|1|2|3|1|2|3|4|5|6|7|8|9|10|11|12|13|14|15|16|17|18|19" default="20"/>
+		<setting label="30012" type="select" id="ecwolf-analog-turn-sensitivity" values="20|Off|1|2|3|1|2|3|4|5|6|7|8|9|10|11|12|13|14|15|16|17|18|19" default="20"/>
+		<setting label="30013" type="select" id="ecwolf-aspect" values="auto|16:9|4:3|16:10|17:10|5:4|21:9" default="auto"/>
+		<setting label="30014" type="select" id="ecwolf-digi-volume" values="20|Off|1|2|3|1|2|3|4|5|6|7|8|9|10|11|12|13|14|15|16|17|18|19" default="20"/>
+		<setting label="30015" type="select" id="ecwolf-dynamic-fps" values="disabled|enabled" default="disabled"/>
+		<setting label="30016" type="select" id="ecwolf-effects-priority" values="digi-adlib-speaker|digi-adlib|digi-speaker|digi|adlib|speaker" default="digi-adlib-speaker"/>
+		<setting label="30017" type="select" id="ecwolf-fps" values="35|7|7.8|8.8|10|14|17.5|25|30|50|60|70|72|75|90|100|119|120|140|144|240|244|300|360" default="35"/>
+		<setting label="30018" type="select" id="ecwolf-invulnerability" values="disabled|enabled" default="disabled"/>
+		<setting label="30019" type="select" id="ecwolf-memstore" values="disabled|enabled" default="disabled"/>
+		<setting label="30020" type="select" id="ecwolf-music-volume" values="20|Off|1|2|3|1|2|3|4|5|6|7|8|9|10|11|12|13|14|15|16|17|18|19" default="20"/>
+		<setting label="30021" type="select" id="ecwolf-palette" values="rgb565|xrgb8888" default="rgb565"/>
+		<setting label="30022" type="select" id="ecwolf-panx-adjustment" values="5|Off|1|2|3|1|2|3|4|6|7|8|9|10|11|12|13|14|15|16|17|18|19|20" default="5"/>
+		<setting label="30023" type="select" id="ecwolf-pany-adjustment" values="5|Off|1|2|3|1|2|3|4|6|7|8|9|10|11|12|13|14|15|16|17|18|19|20" default="5"/>
+		<setting label="30024" type="select" id="ecwolf-resolution" values="320x200|320x240|400x240|420x240|480x270|640x360|640x400|640x480|800x500|960x540|960x600|1024x768|1280x720|1280x800|1600x1000|1920x1200|2240x1400|2560x1600" default="320x200"/>
+		<setting label="30025" type="select" id="ecwolf-speaker-volume" values="20|Off|1|2|3|1|2|3|4|5|6|7|8|9|10|11|12|13|14|15|16|17|18|19" default="20"/>
+		<setting label="30026" type="select" id="ecwolf-viewsize" values="20|4|5|6|7|8|9|10|11|12|13|14|15|16|17|18|19|21" default="20"/>
+	</category>
+</settings>
