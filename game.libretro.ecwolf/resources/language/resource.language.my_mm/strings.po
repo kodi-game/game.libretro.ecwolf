@@ -1,0 +1,125 @@
+# game.libretro.ecwolf language file
+# Addon Name: game.libretro.ecwolf
+# Addon id: game.libretro.ecwolf
+# Addon Provider: libretro
+msgid ""
+msgstr ""
+"Project-Id-Version: game.libretro.ecwolf\n"
+"Report-Msgid-Bugs-To: alanwww1@xbmc.org\n"
+"POT-Creation-Date: 2020-09-01 13:13i\n"
+"PO-Revision-Date: 2020-09-01 13:13i\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: my_mm\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgctxt "#30000"
+msgid "Settings"
+msgstr ""
+
+msgctxt "#30001"
+msgid "Volume of Adlib sound effects"
+msgstr ""
+
+msgctxt "#30002"
+msgid "Always run"
+msgstr ""
+
+msgctxt "#30003"
+msgid "Textured floors in automap"
+msgstr ""
+
+msgctxt "#30004"
+msgid "Textured walls in automap"
+msgstr ""
+
+msgctxt "#30005"
+msgid "Show map as overlay"
+msgstr ""
+
+msgctxt "#30006"
+msgid "Pause game in automap"
+msgstr ""
+
+msgctxt "#30007"
+msgid "Rotate map"
+msgstr ""
+
+msgctxt "#30008"
+msgid "Show level ratios in automap"
+msgstr ""
+
+msgctxt "#30009"
+msgid "Textured Overlay in automap"
+msgstr ""
+
+msgctxt "#30010"
+msgid "Analog deadzone"
+msgstr ""
+
+msgctxt "#30011"
+msgid "Analog move and strafe sensitivity"
+msgstr ""
+
+msgctxt "#30012"
+msgid "Analog turn sensitivity"
+msgstr ""
+
+msgctxt "#30013"
+msgid "Aspect"
+msgstr ""
+
+msgctxt "#30014"
+msgid "Volume of digitized sound effects"
+msgstr ""
+
+msgctxt "#30015"
+msgid "Dynamic FPS"
+msgstr ""
+
+msgctxt "#30016"
+msgid "Order of lookup for effects"
+msgstr ""
+
+msgctxt "#30017"
+msgid "Refresh rate (FPS)"
+msgstr ""
+
+msgctxt "#30018"
+msgid "Invulnerability"
+msgstr ""
+
+msgctxt "#30019"
+msgid "Store files in memory"
+msgstr ""
+
+msgctxt "#30020"
+msgid "Volume of music"
+msgstr ""
+
+msgctxt "#30021"
+msgid "Preferred palette format (Restart)"
+msgstr ""
+
+msgctxt "#30022"
+msgid "Horizontal panning speed in automap"
+msgstr ""
+
+msgctxt "#30023"
+msgid "Horizontal panning speed in automap"
+msgstr ""
+
+msgctxt "#30024"
+msgid "Internal resolution"
+msgstr ""
+
+msgctxt "#30025"
+msgid "Volume of Speaker sound effects"
+msgstr ""
+
+msgctxt "#30026"
+msgid "Screen size"
+msgstr ""
