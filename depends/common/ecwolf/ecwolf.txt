@@ -1,1 +1,1 @@
-ecwolf https://github.com/libretro/ecwolf/archive/78dcd233bb548406511401bbaed74b05ad59fdd6.zip
+ecwolf https://github.com/libretro/ecwolf/archive/fe041979e5e51b2ca0c90bb40ea6acf79714c3c7.zip
