@@ -18,6 +18,6 @@
 		<platform>@PLATFORM@</platform>
 		<source>https://github.com/kodi-game/game.libretro.ecwolf</source>
 		<summary lang="en_GB">Wolfenstein 3D (ECWolf) v0.01</summary>
-		<description lang="en_GB">ECWolf is an advanced source port for Wolfenstein 3D, Spear of Destiny, and Super 3D Noah&#39;s Ark based off of the Wolf4SDL code base.</description>
+		<description lang="en_GB">ECWolf is an advanced source port for Wolfenstein 3D, Spear of Destiny, and Super 3D Noah&#39;s Ark based off of the Wolf4SDL code base.[CR][CR]Supported files: .wl6, .n3d, .sod, .sdm, .wl1, .pk3</description>
 	</extension>
 </addon>
