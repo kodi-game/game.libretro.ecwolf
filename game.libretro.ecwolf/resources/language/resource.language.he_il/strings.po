@@ -16,6 +16,16 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=4; plural=(n == 1) ? 0 : ((n == 2) ? 1 : ((n > 10 && n % 10 == 0) ? 2 : 3));\n"
 
+msgctxt "Addon Summary"
+msgid "Wolfenstein 3D (ECWolf) v0.01"
+msgstr ""
+
+msgctxt "Addon Description"
+msgid "ECWolf is an advanced source port for Wolfenstein 3D, Spear of Destiny, and Super 3D Noah&#39;s Ark based off of the Wolf4SDL code base.
+
+Supported files: .wl6, .n3d, .sod, .sdm, .wl1, .pk3"
+msgstr ""
+
 msgctxt "#30000"
 msgid "Settings"
 msgstr ""
