@@ -21,7 +21,7 @@ msgid "Wolfenstein 3D (ECWolf) v0.01"
 msgstr ""
 
 msgctxt "Addon Description"
-msgid "ECWolf is an advanced source port for Wolfenstein 3D, Spear of Destiny, and Super 3D Noah's Ark based off of the Wolf4SDL code base."
+msgid "ECWolf is an advanced source port for Wolfenstein 3D, Spear of Destiny, and Super 3D Noah&apos;s Ark based off of the Wolf4SDL code base."
 msgstr ""
 
 msgctxt "#30000"
