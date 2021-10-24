@@ -5,7 +5,7 @@
 
 ### Description
 
-ECWolf is an advanced source port for Wolfenstein 3D, Spear of Destiny, and Super 3D Noah&apos;s Ark based off of the Wolf4SDL code base.
+ECWolf is an advanced source port for Wolfenstein 3D, Spear of Destiny, and Super 3D Noah's Ark based off of the Wolf4SDL code base.
 
 ### License
 
