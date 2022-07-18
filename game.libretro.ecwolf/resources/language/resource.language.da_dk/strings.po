@@ -126,9 +126,17 @@ msgid "Store files in memory"
 msgstr "Gem filer i hukommelsen"
 
 msgctxt "#30025"
-msgid "Horizontal panning speed in automap"
-msgstr "Vandret panoreringshastighed i det automatiske kort"
+msgid "Preload digitized sounds"
+msgstr ""
 
 msgctxt "#30026"
 msgid "Horizontal panning speed in automap"
 msgstr "Vandret panoreringshastighed i det automatiske kort"
+
+msgctxt "#30027"
+msgid "Horizontal panning speed in automap"
+msgstr ""
+
+#~ msgctxt "#30025"
+#~ msgid "Horizontal panning speed in automap"
+#~ msgstr "Vandret panoreringshastighed i det automatiske kort"

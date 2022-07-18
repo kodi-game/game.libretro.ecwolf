@@ -125,9 +125,13 @@ msgid "Store files in memory"
 msgstr ""
 
 msgctxt "#30025"
-msgid "Horizontal panning speed in automap"
+msgid "Preload digitized sounds"
 msgstr ""
 
 msgctxt "#30026"
+msgid "Horizontal panning speed in automap"
+msgstr ""
+
+msgctxt "#30027"
 msgid "Horizontal panning speed in automap"
 msgstr ""
