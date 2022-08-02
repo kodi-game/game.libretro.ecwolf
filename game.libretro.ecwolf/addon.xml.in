@@ -27,5 +27,6 @@
 		<summary lang="en_GB">Wolfenstein 3D (ECWolf) v0.01</summary>
 		<description lang="da_DK">ECWolf er en avanceret port af kilden til Wolfenstein 3D, Spear of Destiny og Super 3D Noah&apos;s Ark baseret på Wolf4SDL-kodebasen.</description>
 		<description lang="en_GB">ECWolf is an advanced source port for Wolfenstein 3D, Spear of Destiny, and Super 3D Noah&apos;s Ark based off of the Wolf4SDL code base.</description>
+		<description lang="zh_CN">ECWolf 是基于 Wolf4SDL 代码库针对《德军总部3D》、《德军总部：命运之矛》和《超级3D诺亚方舟》的高级源移植。</description>
 	</extension>
 </addon>
