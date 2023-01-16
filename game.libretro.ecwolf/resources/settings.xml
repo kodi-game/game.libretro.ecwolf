@@ -9,11 +9,11 @@
 		<setting label="30006" type="select" id="ecwolf-viewsize" values="20|4|5|6|7|8|9|10|11|12|13|14|15|16|17|18|19|21" default="20"/>
 		<setting label="30007" type="select" id="ecwolf-am-overlay" values="off|on|both" default="off"/>
 		<setting label="30008" type="select" id="ecwolf-am-rotate" values="off|on|overlay_only" default="off"/>
-		<setting label="30009" type="select" id="ecwolf-am-drawtexturedwalls" values="disabled|enabled" default="disabled"/>
+		<setting label="30009" type="select" id="ecwolf-am-drawtexturedwalls" values="enabled|disabled" default="enabled"/>
 		<setting label="30010" type="select" id="ecwolf-am-drawtexturedfloors" values="disabled|enabled" default="disabled"/>
 		<setting label="30011" type="select" id="ecwolf-am-texturedoverlay" values="disabled|enabled" default="disabled"/>
 		<setting label="30012" type="select" id="ecwolf-am-showratios" values="disabled|enabled" default="disabled"/>
-		<setting label="30013" type="select" id="ecwolf-am-pause" values="disabled|enabled" default="disabled"/>
+		<setting label="30013" type="select" id="ecwolf-am-pause" values="enabled|disabled" default="enabled"/>
 		<setting label="30014" type="select" id="ecwolf-music-volume" values="20|Off|1|2|3|1|2|3|4|5|6|7|8|9|10|11|12|13|14|15|16|17|18|19" default="20"/>
 		<setting label="30015" type="select" id="ecwolf-digi-volume" values="20|Off|1|2|3|1|2|3|4|5|6|7|8|9|10|11|12|13|14|15|16|17|18|19" default="20"/>
 		<setting label="30016" type="select" id="ecwolf-adlib-volume" values="20|Off|1|2|3|1|2|3|4|5|6|7|8|9|10|11|12|13|14|15|16|17|18|19" default="20"/>
