@@ -13,7 +13,7 @@ BSD|LGPL
 
 ### Icon
 
-![Icon](game.libretro.ecwolf/resources/icon.png)
+![Wolfenstein 3D (ECWolf) icon](game.libretro.ecwolf/resources/icon.png)
 
 ### Fanart
 
@@ -21,6 +21,6 @@ Help make me fanart!
 
 ### Screenshots
 
-![Screenshot](game.libretro.ecwolf/resources/screenshot-01.jpg)
-![Screenshot](game.libretro.ecwolf/resources/screenshot-02.jpg)
-![Screenshot](game.libretro.ecwolf/resources/screenshot-03.jpg)
+![Wolfenstein 3D (ECWolf) screenshot](game.libretro.ecwolf/resources/screenshot-01.jpg)
+![Wolfenstein 3D (ECWolf) screenshot](game.libretro.ecwolf/resources/screenshot-02.jpg)
+![Wolfenstein 3D (ECWolf) screenshot](game.libretro.ecwolf/resources/screenshot-03.jpg)
