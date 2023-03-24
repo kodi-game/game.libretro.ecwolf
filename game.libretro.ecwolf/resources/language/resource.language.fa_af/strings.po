@@ -17,7 +17,7 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 
 msgctxt "Addon Summary"
-msgid "Wolfenstein 3D (ECWolf) v0.01"
+msgid "Wolfenstein 3D (ECWolf)"
 msgstr ""
 
 msgctxt "Addon Description"
