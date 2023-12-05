@@ -1,0 +1,27 @@
+From 3657b71b2ce61a123d406b00fb0a7712e5ecdf88 Mon Sep 17 00:00:00 2001
+From: Garrett Brown <themagnificentmrb@gmail.com>
+Date: Tue, 5 Dec 2023 15:38:07 -0800
+Subject: [PATCH] Fix name of vertical panning option
+
+---
+ src/libretro/libretro_core_options.h | 4 ++--
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+
+diff --git a/src/libretro/libretro_core_options.h b/src/libretro/libretro_core_options.h
+index 8697c0d..ed50125 100644
+--- a/src/libretro/libretro_core_options.h
++++ b/src/libretro/libretro_core_options.h
+@@ -397,8 +397,8 @@ struct retro_core_option_definition option_defs_us[] = {
+ 	},
+ 	{
+ 		"ecwolf-pany-adjustment",
+-		"Horizontal panning speed in automap",
+-		"Multiplier for horizontal panning from 0 to 20",
++		"Vertical panning speed in automap",
++		"Multiplier for vertical panning from 0 to 20",
+ 		SLIDER_OPTIONS,
+ 		"5"
+ 	},
+-- 
+2.37.0.windows.1
+
