@@ -134,5 +134,9 @@ msgid "Horizontal panning speed in automap"
 msgstr "Velocidad Desplazamiento Horizontal en Mapa Automático"
 
 msgctxt "#30027"
-msgid "Horizontal panning speed in automap"
-msgstr "Velocidad Desplazamiento Horizontal en Mapa Automático"
+msgid "Vertical panning speed in automap"
+msgstr ""
+
+#~ msgctxt "#30027"
+#~ msgid "Horizontal panning speed in automap"
+#~ msgstr "Velocidad Desplazamiento Horizontal en Mapa Automático"

@@ -134,5 +134,9 @@ msgid "Horizontal panning speed in automap"
 msgstr "自动地图中的水平平移速度"
 
 msgctxt "#30027"
-msgid "Horizontal panning speed in automap"
-msgstr "自动地图中的水平平移速度"
+msgid "Vertical panning speed in automap"
+msgstr ""
+
+#~ msgctxt "#30027"
+#~ msgid "Horizontal panning speed in automap"
+#~ msgstr "自动地图中的水平平移速度"
