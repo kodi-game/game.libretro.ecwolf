@@ -132,6 +132,6 @@ msgctxt "#30026"
 msgid "Horizontal panning speed in automap"
 msgstr ""
 
-msgctxt "#30027"
+msgctxt "#30026"
 msgid "Horizontal panning speed in automap"
 msgstr ""
