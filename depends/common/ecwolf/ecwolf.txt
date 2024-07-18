@@ -1,1 +1,1 @@
-ecwolf https://github.com/kodi-game/ecwolf/archive/0ad3122537b112fa851fbdfee843774473c74555.tar.gz
+ecwolf https://github.com/kodi-game/ecwolf/archive/9b1537e8ba77db6c99b017710cdc1ec70ad1332c.tar.gz
