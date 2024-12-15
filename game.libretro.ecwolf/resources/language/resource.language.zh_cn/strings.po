@@ -25,10 +25,6 @@ msgctxt "Addon Description"
 msgid "ECWolf is an advanced source port for Wolfenstein 3D, Spear of Destiny, and Super 3D Noah's Ark based off of the Wolf4SDL code base."
 msgstr "ECWolf 是基于 Wolf4SDL 代码库针对《德军总部3D》、《德军总部：命运之矛》和《超级3D诺亚方舟》的高级源移植。"
 
-msgctxt "#30000"
-msgid "Settings"
-msgstr "设置"
-
 msgctxt "#30001"
 msgid "Internal resolution"
 msgstr "内部分辨率"
@@ -136,6 +132,10 @@ msgstr "自动地图中的水平平移速度"
 msgctxt "#30027"
 msgid "Vertical panning speed in automap"
 msgstr ""
+
+#~ msgctxt "#30000"
+#~ msgid "Settings"
+#~ msgstr "设置"
 
 #~ msgctxt "#30027"
 #~ msgid "Horizontal panning speed in automap"
