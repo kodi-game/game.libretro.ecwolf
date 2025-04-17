@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: game.libretro.ecwolf\n"
 "Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: 2020-09-01 13:13i\n"
-"PO-Revision-Date: 2025-04-14 08:16+0000\n"
+"PO-Revision-Date: 2025-04-17 04:27+0000\n"
 "Last-Translator: Daniel Nylander <daniel@danielnylander.se>\n"
 "Language-Team: Swedish <https://kodi.weblate.cloud/projects/kodi-add-ons-game/game-libretro-ecwolf/sv_se/>\n"
 "Language: sv_se\n"
@@ -15,7 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.10.4\n"
+"X-Generator: Weblate 5.11\n"
 
 msgctxt "Addon Summary"
 msgid "Wolfenstein 3D (ECWolf)"
@@ -37,101 +37,118 @@ msgctxt "#30003"
 msgid "Refresh rate (FPS)"
 msgstr "Uppdateringsfrekvens (bilder/s)"
 
+#, fuzzy
 msgctxt "#30004"
 msgid "Preferred palette format (Restart)"
-msgstr ""
+msgstr "Företrädesvis palettformat (omstart)"
 
+#, fuzzy
 msgctxt "#30005"
 msgid "Always run"
-msgstr ""
+msgstr "Kör alltid"
 
 msgctxt "#30006"
 msgid "Screen size"
-msgstr ""
+msgstr "Skärmstorlek"
 
+#, fuzzy
 msgctxt "#30007"
 msgid "Show map as overlay"
-msgstr ""
+msgstr "Visa kartan som överlägg"
 
+#, fuzzy
 msgctxt "#30008"
 msgid "Rotate map"
-msgstr ""
+msgstr "Rotera kartan"
 
+#, fuzzy
 msgctxt "#30009"
 msgid "Textured walls in automap"
-msgstr ""
+msgstr "Texturerade väggar i automap"
 
+#, fuzzy
 msgctxt "#30010"
 msgid "Textured floors in automap"
-msgstr ""
+msgstr "Strukturerade golv i automap"
 
+#, fuzzy
 msgctxt "#30011"
 msgid "Textured Overlay in automap"
-msgstr ""
+msgstr "Texturerad överlagring i automap"
 
+#, fuzzy
 msgctxt "#30012"
 msgid "Show level ratios in automap"
-msgstr ""
+msgstr "Visa nivåförhållandena i automap"
 
+#, fuzzy
 msgctxt "#30013"
 msgid "Pause game in automap"
-msgstr ""
+msgstr "Pausa spelet i automap"
 
 msgctxt "#30014"
 msgid "Volume of music"
-msgstr ""
+msgstr "Volym på musiken"
 
 msgctxt "#30015"
 msgid "Volume of digitized sound effects"
-msgstr ""
+msgstr "Volym för digitaliserade ljudeffekter"
 
+#, fuzzy
 msgctxt "#30016"
 msgid "Volume of Adlib sound effects"
-msgstr ""
+msgstr "Volym för Adlib-ljudeffekter"
 
+#, fuzzy
 msgctxt "#30017"
 msgid "Volume of Speaker sound effects"
-msgstr ""
+msgstr "Volym för högtalarens ljudeffekter"
 
+#, fuzzy
 msgctxt "#30018"
 msgid "Analog move and strafe sensitivity"
-msgstr ""
+msgstr "Känslighet för analog rörelse och strafe"
 
+#, fuzzy
 msgctxt "#30019"
 msgid "Analog turn sensitivity"
-msgstr ""
+msgstr "Analog vridkänslighet"
 
+#, fuzzy
 msgctxt "#30020"
 msgid "Order of lookup for effects"
-msgstr ""
+msgstr "Ordningsföljd för uppslagning av effekter"
 
 msgctxt "#30021"
 msgid "Aspect"
-msgstr ""
+msgstr "Bildförhållande"
 
 msgctxt "#30022"
 msgid "Invulnerability"
-msgstr ""
+msgstr "Osårbarhet"
 
 msgctxt "#30023"
 msgid "Dynamic FPS"
-msgstr ""
+msgstr "Dynamisk bildfrekvens"
 
 msgctxt "#30024"
 msgid "Store files in memory"
-msgstr ""
+msgstr "Lagra filer i minnet"
 
+#, fuzzy
 msgctxt "#30025"
 msgid "Preload digitized sounds"
-msgstr ""
+msgstr "Förhandsladdning av digitaliserade ljud"
 
+#, fuzzy
 msgctxt "#30026"
 msgid "Horizontal panning speed in automap"
-msgstr ""
+msgstr "Horisontell panoreringshastighet i automap"
 
+#, fuzzy
 msgctxt "#30027"
 msgid "Vertical panning speed in automap"
-msgstr ""
+msgstr "Vertikal panoreringshastighet i automap"
 
 #~ msgctxt "#30000"
 #~ msgid "Settings"
