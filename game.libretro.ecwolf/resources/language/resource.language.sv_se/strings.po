@@ -125,10 +125,6 @@ msgctxt "#30022"
 msgid "Invulnerability"
 msgstr "Osårbarhet"
 
-msgctxt "#30023"
-msgid "Dynamic FPS"
-msgstr "Dynamisk bildfrekvens"
-
 msgctxt "#30024"
 msgid "Store files in memory"
 msgstr "Lagra filer i minnet"
@@ -147,6 +143,14 @@ msgstr "Horisontell panoreringshastighet i automap"
 msgctxt "#30027"
 msgid "Vertical panning speed in automap"
 msgstr "Vertikal panoreringshastighet i automap"
+
+msgctxt "#30028"
+msgid "Mouse turn sensitivity"
+msgstr ""
+
+#~ msgctxt "#30023"
+#~ msgid "Dynamic FPS"
+#~ msgstr "Dynamisk bildfrekvens"
 
 #~ msgctxt "#30000"
 #~ msgid "Settings"

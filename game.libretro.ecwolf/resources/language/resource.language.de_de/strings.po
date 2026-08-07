@@ -113,10 +113,6 @@ msgctxt "#30022"
 msgid "Invulnerability"
 msgstr "Unverwundbarkeit"
 
-msgctxt "#30023"
-msgid "Dynamic FPS"
-msgstr "Dynamische FPS"
-
 msgctxt "#30024"
 msgid "Store files in memory"
 msgstr "Dateien im Speicher ablegen"
@@ -132,6 +128,14 @@ msgstr ""
 msgctxt "#30027"
 msgid "Vertical panning speed in automap"
 msgstr ""
+
+msgctxt "#30028"
+msgid "Mouse turn sensitivity"
+msgstr ""
+
+#~ msgctxt "#30023"
+#~ msgid "Dynamic FPS"
+#~ msgstr "Dynamische FPS"
 
 #~ msgctxt "#30000"
 #~ msgid "Settings"

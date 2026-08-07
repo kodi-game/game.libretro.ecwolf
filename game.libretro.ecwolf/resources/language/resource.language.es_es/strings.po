@@ -113,10 +113,6 @@ msgctxt "#30022"
 msgid "Invulnerability"
 msgstr "Invulnerabilidad"
 
-msgctxt "#30023"
-msgid "Dynamic FPS"
-msgstr "FPS Dinámico"
-
 msgctxt "#30024"
 msgid "Store files in memory"
 msgstr "Almacenar Archivos en Memoria"
@@ -132,6 +128,14 @@ msgstr "Velocidad Desplazamiento Horizontal en Mapa Automático"
 msgctxt "#30027"
 msgid "Vertical panning speed in automap"
 msgstr "Velocidad de desplazamiento vertical en el mapa automático"
+
+msgctxt "#30028"
+msgid "Mouse turn sensitivity"
+msgstr ""
+
+#~ msgctxt "#30023"
+#~ msgid "Dynamic FPS"
+#~ msgstr "FPS Dinámico"
 
 #~ msgctxt "#30000"
 #~ msgid "Settings"

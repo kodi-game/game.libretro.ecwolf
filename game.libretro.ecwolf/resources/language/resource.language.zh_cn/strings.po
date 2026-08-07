@@ -113,10 +113,6 @@ msgctxt "#30022"
 msgid "Invulnerability"
 msgstr "刀枪不入"
 
-msgctxt "#30023"
-msgid "Dynamic FPS"
-msgstr "动态 FPS"
-
 msgctxt "#30024"
 msgid "Store files in memory"
 msgstr "将文件存储在内存中"
@@ -132,6 +128,14 @@ msgstr "自动地图中的水平平移速度"
 msgctxt "#30027"
 msgid "Vertical panning speed in automap"
 msgstr "自动地图中的垂直平移速度"
+
+msgctxt "#30028"
+msgid "Mouse turn sensitivity"
+msgstr ""
+
+#~ msgctxt "#30023"
+#~ msgid "Dynamic FPS"
+#~ msgstr "动态 FPS"
 
 #~ msgctxt "#30000"
 #~ msgid "Settings"
