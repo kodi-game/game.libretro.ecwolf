@@ -133,6 +133,230 @@ msgctxt "#30028"
 msgid "Mouse turn sensitivity"
 msgstr "Sensiblidad de giro de ratón"
 
+msgctxt "#30029"
+msgid "Configure the resolution."
+msgstr ""
+
+msgctxt "#30030"
+msgid "Configure the deadzone for analog axis."
+msgstr ""
+
+msgctxt "#30031"
+msgid "Configure the FPS."
+msgstr ""
+
+msgctxt "#30032"
+msgid "Actual format is subject to hardware support."
+msgstr ""
+
+msgctxt "#30033"
+msgid "RGB565 (16-bit)"
+msgstr ""
+
+msgctxt "#30034"
+msgid "XRGB8888 (24-bit)"
+msgstr ""
+
+msgctxt "#30035"
+msgid "Run by default. Use RUN button to walk."
+msgstr ""
+
+msgctxt "#30036"
+msgid "Smallest"
+msgstr ""
+
+msgctxt "#30037"
+msgid "5"
+msgstr ""
+
+msgctxt "#30038"
+msgid "6"
+msgstr ""
+
+msgctxt "#30039"
+msgid "7"
+msgstr ""
+
+msgctxt "#30040"
+msgid "8"
+msgstr ""
+
+msgctxt "#30041"
+msgid "9"
+msgstr ""
+
+msgctxt "#30042"
+msgid "10"
+msgstr ""
+
+msgctxt "#30043"
+msgid "11"
+msgstr ""
+
+msgctxt "#30044"
+msgid "12"
+msgstr ""
+
+msgctxt "#30045"
+msgid "13"
+msgstr ""
+
+msgctxt "#30046"
+msgid "14"
+msgstr ""
+
+msgctxt "#30047"
+msgid "15"
+msgstr ""
+
+msgctxt "#30048"
+msgid "16"
+msgstr ""
+
+msgctxt "#30049"
+msgid "17"
+msgstr ""
+
+msgctxt "#30050"
+msgid "18"
+msgstr ""
+
+msgctxt "#30051"
+msgid "19"
+msgstr ""
+
+msgctxt "#30052"
+msgid "Largest with statusbar"
+msgstr ""
+
+msgctxt "#30053"
+msgid "Without statusbar"
+msgstr ""
+
+msgctxt "#30054"
+msgid "Draw automap on top of the game."
+msgstr ""
+
+msgctxt "#30055"
+msgid "Off"
+msgstr ""
+
+msgctxt "#30056"
+msgid "On"
+msgstr ""
+
+msgctxt "#30057"
+msgid "On + Normal"
+msgstr ""
+
+msgctxt "#30058"
+msgid "Rotate map to match looking direction."
+msgstr ""
+
+msgctxt "#30059"
+msgid "Overlay only"
+msgstr ""
+
+msgctxt "#30060"
+msgid "Draw textured walls in automap."
+msgstr ""
+
+msgctxt "#30061"
+msgid "Draw textured floors in automap."
+msgstr ""
+
+msgctxt "#30062"
+msgid "Draw textures in overlay automap."
+msgstr ""
+
+msgctxt "#30063"
+msgid "Show level ratios in automap."
+msgstr ""
+
+msgctxt "#30064"
+msgid "Pause game when in automap."
+msgstr ""
+
+msgctxt "#30065"
+msgid "Volume of music from Off to 20"
+msgstr ""
+
+msgctxt "#30066"
+msgid "Volume of digitized sound effects from Off to 20"
+msgstr ""
+
+msgctxt "#30067"
+msgid "Volume of Adlib sound effects from Off to 20"
+msgstr ""
+
+msgctxt "#30068"
+msgid "Volume of Speaker sound effects from Off to 20"
+msgstr ""
+
+msgctxt "#30069"
+msgid "Sensitivity of move with analog stick from Off to 20"
+msgstr ""
+
+msgctxt "#30070"
+msgid "Sensitivity of turn with analog stick from Off to 20"
+msgstr ""
+
+msgctxt "#30071"
+msgid "Sensitivity of turning with the mouse from Off to 20"
+msgstr ""
+
+msgctxt "#30072"
+msgid "Which variants of assets are used in priority"
+msgstr ""
+
+msgctxt "#30073"
+msgid "Digitized, Adlib, Speaker"
+msgstr ""
+
+msgctxt "#30074"
+msgid "Digitized, Adlib"
+msgstr ""
+
+msgctxt "#30075"
+msgid "Digitized, Speaker"
+msgstr ""
+
+msgctxt "#30076"
+msgid "Digitized only"
+msgstr ""
+
+msgctxt "#30077"
+msgid "Adlib only"
+msgstr ""
+
+msgctxt "#30078"
+msgid "Speaker only"
+msgstr ""
+
+msgctxt "#30079"
+msgid "Force a video aspect"
+msgstr ""
+
+msgctxt "#30080"
+msgid "Auto"
+msgstr ""
+
+msgctxt "#30081"
+msgid "Enable invulnerability (cheat)."
+msgstr ""
+
+msgctxt "#30082"
+msgid "Increases speed at cost of memory and initial load times"
+msgstr ""
+
+msgctxt "#30083"
+msgid "Multiplier for horizontal panning from 0 to 20"
+msgstr ""
+
+msgctxt "#30084"
+msgid "Multiplier for vertical panning from 0 to 20"
+msgstr ""
+
 #~ msgctxt "#30023"
 #~ msgid "Dynamic FPS"
 #~ msgstr "FPS Dinámico"
