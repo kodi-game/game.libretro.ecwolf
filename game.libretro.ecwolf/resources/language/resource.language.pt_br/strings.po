@@ -357,6 +357,50 @@ msgctxt "#30084"
 msgid "Multiplier for vertical panning from 0 to 20"
 msgstr ""
 
+msgctxt "#30085"
+msgid "1"
+msgstr ""
+
+msgctxt "#30086"
+msgid "2"
+msgstr ""
+
+msgctxt "#30087"
+msgid "3"
+msgstr ""
+
+msgctxt "#30088"
+msgid "4"
+msgstr ""
+
+msgctxt "#30089"
+msgid "20"
+msgstr ""
+
+msgctxt "#30090"
+msgid "16:9"
+msgstr ""
+
+msgctxt "#30091"
+msgid "4:3"
+msgstr ""
+
+msgctxt "#30092"
+msgid "16:10"
+msgstr ""
+
+msgctxt "#30093"
+msgid "17:10"
+msgstr ""
+
+msgctxt "#30094"
+msgid "5:4"
+msgstr ""
+
+msgctxt "#30095"
+msgid "21:9"
+msgstr ""
+
 #~ msgctxt "#30000"
 #~ msgid "Settings"
 #~ msgstr "Configurações"
