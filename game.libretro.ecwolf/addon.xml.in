@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon id="game.libretro.ecwolf"
 		name="Wolfenstein 3D (ECWolf)"
-		version="0.01.0.42"
+		version="0.01.0.43"
 		provider-name="Braden Obrzut">
 	<requires>
 		<import addon="game.libretro" version="1.0.0"/>
 	</requires>
 	<extension point="kodi.gameclient"
 			library_@PLATFORM@="@LIBRARY_FILENAME@">
-		<platforms></platforms>
+		<platforms>Wolfenstein 3D</platforms>
 		<extensions>wl6|n3d|sod|sdm|wl1|pk3</extensions>
 		<supports_vfs>false</supports_vfs>
 		<supports_standalone>false</supports_standalone>
 		<supports_disc_control>false</supports_disc_control>
-		<requires_opengl>false</requires_opengl>
+		<libretro_core>ecwolf_libretro</libretro_core>
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<license>BSD|LGPL</license>
