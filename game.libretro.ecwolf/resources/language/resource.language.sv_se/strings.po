@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: game.libretro.ecwolf\n"
 "Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: 2020-09-01 13:13i\n"
-"PO-Revision-Date: 2025-08-11 08:29+0000\n"
+"PO-Revision-Date: 2026-11-02 20:49+0000\n"
 "Last-Translator: Daniel Nylander <daniel@danielnylander.se>\n"
 "Language-Team: Swedish <https://kodi.weblate.cloud/projects/kodi-add-ons-game/game-libretro-ecwolf/sv_se/>\n"
 "Language: sv_se\n"
@@ -15,7 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.12.2\n"
+"X-Generator: Weblate 2026.10.1\n"
 
 msgctxt "Addon Summary"
 msgid "Wolfenstein 3D (ECWolf)"
@@ -49,40 +49,33 @@ msgctxt "#30006"
 msgid "Screen size"
 msgstr "Skärmstorlek"
 
-#, fuzzy
 msgctxt "#30007"
 msgid "Show map as overlay"
-msgstr "Visa kartan som överlägg"
+msgstr "Visa karta som överlägg"
 
-#, fuzzy
 msgctxt "#30008"
 msgid "Rotate map"
-msgstr "Rotera kartan"
+msgstr "Rotera karta"
 
-#, fuzzy
 msgctxt "#30009"
 msgid "Textured walls in automap"
-msgstr "Texturerade väggar i automap"
+msgstr "Texturerade väggar på den automatiska kartan"
 
-#, fuzzy
 msgctxt "#30010"
 msgid "Textured floors in automap"
-msgstr "Strukturerade golv i automap"
+msgstr "Texturerade golv på den automatiska kartan"
 
-#, fuzzy
 msgctxt "#30011"
 msgid "Textured Overlay in automap"
-msgstr "Texturerad överlagring i automap"
+msgstr "Texturerat överlägg på den automatiska kartan"
 
-#, fuzzy
 msgctxt "#30012"
 msgid "Show level ratios in automap"
-msgstr "Visa nivåförhållandena i automap"
+msgstr "Visa nivåförhållanden på den automatiska kartan"
 
-#, fuzzy
 msgctxt "#30013"
 msgid "Pause game in automap"
-msgstr "Pausa spelet i automap"
+msgstr "Pausa spelet på den automatiska kartan"
 
 msgctxt "#30014"
 msgid "Volume of music"
@@ -92,30 +85,25 @@ msgctxt "#30015"
 msgid "Volume of digitized sound effects"
 msgstr "Volym för digitaliserade ljudeffekter"
 
-#, fuzzy
 msgctxt "#30016"
 msgid "Volume of Adlib sound effects"
 msgstr "Volym för Adlib-ljudeffekter"
 
-#, fuzzy
 msgctxt "#30017"
 msgid "Volume of Speaker sound effects"
 msgstr "Volym för högtalarens ljudeffekter"
 
-#, fuzzy
 msgctxt "#30018"
 msgid "Analog move and strafe sensitivity"
-msgstr "Känslighet för analog rörelse och strafe"
+msgstr "Känslighet för analog rörelse och sidledsförflyttning"
 
-#, fuzzy
 msgctxt "#30019"
 msgid "Analog turn sensitivity"
-msgstr "Analog vridkänslighet"
+msgstr "Känslighet för analog svängning"
 
-#, fuzzy
 msgctxt "#30020"
 msgid "Order of lookup for effects"
-msgstr "Ordningsföljd för uppslagning av effekter"
+msgstr "Sökordning för effekter"
 
 msgctxt "#30021"
 msgid "Aspect"
@@ -129,292 +117,289 @@ msgctxt "#30024"
 msgid "Store files in memory"
 msgstr "Lagra filer i minnet"
 
-#, fuzzy
 msgctxt "#30025"
 msgid "Preload digitized sounds"
-msgstr "Förhandsladdning av digitaliserade ljud"
+msgstr "Förinläs digitaliserade ljud"
 
-#, fuzzy
 msgctxt "#30026"
 msgid "Horizontal panning speed in automap"
-msgstr "Horisontell panoreringshastighet i automap"
+msgstr "Horisontell panoreringshastighet på den automatiska kartan"
 
-#, fuzzy
 msgctxt "#30027"
 msgid "Vertical panning speed in automap"
-msgstr "Vertikal panoreringshastighet i automap"
+msgstr "Vertikal panoreringshastighet på den automatiska kartan"
 
 msgctxt "#30028"
 msgid "Mouse turn sensitivity"
-msgstr ""
+msgstr "Känslighet för mussvängning"
 
 msgctxt "#30029"
 msgid "Configure the resolution."
-msgstr ""
+msgstr "Konfigurera upplösningen."
 
 msgctxt "#30030"
 msgid "Configure the deadzone for analog axis."
-msgstr ""
+msgstr "Konfigurera dödzonen för analog axel."
 
 msgctxt "#30031"
 msgid "Configure the FPS."
-msgstr ""
+msgstr "Konfigurera bildfrekvensen."
 
 msgctxt "#30032"
 msgid "Actual format is subject to hardware support."
-msgstr ""
+msgstr "Det faktiska formatet beror på maskinvarustöd."
 
 msgctxt "#30033"
 msgid "RGB565 (16-bit)"
-msgstr ""
+msgstr "RGB565 (16 bitar)"
 
 msgctxt "#30034"
 msgid "XRGB8888 (24-bit)"
-msgstr ""
+msgstr "XRGB8888 (24 bitar)"
 
 msgctxt "#30035"
 msgid "Run by default. Use RUN button to walk."
-msgstr ""
+msgstr "Spring som standard. Använd SPRING-knappen för att gå."
 
 msgctxt "#30036"
 msgid "Smallest"
-msgstr ""
+msgstr "Minst"
 
 msgctxt "#30037"
 msgid "5"
-msgstr ""
+msgstr "5"
 
 msgctxt "#30038"
 msgid "6"
-msgstr ""
+msgstr "6"
 
 msgctxt "#30039"
 msgid "7"
-msgstr ""
+msgstr "7"
 
 msgctxt "#30040"
 msgid "8"
-msgstr ""
+msgstr "8"
 
 msgctxt "#30041"
 msgid "9"
-msgstr ""
+msgstr "9"
 
 msgctxt "#30042"
 msgid "10"
-msgstr ""
+msgstr "10"
 
 msgctxt "#30043"
 msgid "11"
-msgstr ""
+msgstr "11"
 
 msgctxt "#30044"
 msgid "12"
-msgstr ""
+msgstr "12"
 
 msgctxt "#30045"
 msgid "13"
-msgstr ""
+msgstr "13"
 
 msgctxt "#30046"
 msgid "14"
-msgstr ""
+msgstr "14"
 
 msgctxt "#30047"
 msgid "15"
-msgstr ""
+msgstr "15"
 
 msgctxt "#30048"
 msgid "16"
-msgstr ""
+msgstr "16"
 
 msgctxt "#30049"
 msgid "17"
-msgstr ""
+msgstr "17"
 
 msgctxt "#30050"
 msgid "18"
-msgstr ""
+msgstr "18"
 
 msgctxt "#30051"
 msgid "19"
-msgstr ""
+msgstr "19"
 
 msgctxt "#30052"
 msgid "Largest with statusbar"
-msgstr ""
+msgstr "Störst med statusrad"
 
 msgctxt "#30053"
 msgid "Without statusbar"
-msgstr ""
+msgstr "Utan statusrad"
 
 msgctxt "#30054"
 msgid "Draw automap on top of the game."
-msgstr ""
+msgstr "Rita den automatiska kartan ovanpå spelet."
 
 msgctxt "#30055"
 msgid "Off"
-msgstr ""
+msgstr "Av"
 
 msgctxt "#30056"
 msgid "On"
-msgstr ""
+msgstr "På"
 
 msgctxt "#30057"
 msgid "On + Normal"
-msgstr ""
+msgstr "På + normal"
 
 msgctxt "#30058"
 msgid "Rotate map to match looking direction."
-msgstr ""
+msgstr "Rotera kartan så att den följer blickriktningen."
 
 msgctxt "#30059"
 msgid "Overlay only"
-msgstr ""
+msgstr "Endast överlägg"
 
 msgctxt "#30060"
 msgid "Draw textured walls in automap."
-msgstr ""
+msgstr "Rita texturerade väggar på den automatiska kartan."
 
 msgctxt "#30061"
 msgid "Draw textured floors in automap."
-msgstr ""
+msgstr "Rita texturerade golv på den automatiska kartan."
 
 msgctxt "#30062"
 msgid "Draw textures in overlay automap."
-msgstr ""
+msgstr "Rita texturer i överlägget för den automatiska kartan."
 
 msgctxt "#30063"
 msgid "Show level ratios in automap."
-msgstr ""
+msgstr "Visa nivåförhållanden på den automatiska kartan."
 
 msgctxt "#30064"
 msgid "Pause game when in automap."
-msgstr ""
+msgstr "Pausa spelet när den automatiska kartan visas."
 
 msgctxt "#30065"
 msgid "Volume of music from Off to 20"
-msgstr ""
+msgstr "Musikvolym från Av till 20"
 
 msgctxt "#30066"
 msgid "Volume of digitized sound effects from Off to 20"
-msgstr ""
+msgstr "Volym för digitaliserade ljudeffekter från Av till 20"
 
 msgctxt "#30067"
 msgid "Volume of Adlib sound effects from Off to 20"
-msgstr ""
+msgstr "Volym för Adlib-ljudeffekter från Av till 20"
 
 msgctxt "#30068"
 msgid "Volume of Speaker sound effects from Off to 20"
-msgstr ""
+msgstr "Volym för högtalarens ljudeffekter från Av till 20"
 
 msgctxt "#30069"
 msgid "Sensitivity of move with analog stick from Off to 20"
-msgstr ""
+msgstr "Känslighet för rörelse med analogspak från Av till 20"
 
 msgctxt "#30070"
 msgid "Sensitivity of turn with analog stick from Off to 20"
-msgstr ""
+msgstr "Känslighet för svängning med analogspak från Av till 20"
 
 msgctxt "#30071"
 msgid "Sensitivity of turning with the mouse from Off to 20"
-msgstr ""
+msgstr "Känslighet för svängning med musen från Av till 20"
 
 msgctxt "#30072"
 msgid "Which variants of assets are used in priority"
-msgstr ""
+msgstr "Vilka tillgångsvarianter som används i prioritetsordning"
 
 msgctxt "#30073"
 msgid "Digitized, Adlib, Speaker"
-msgstr ""
+msgstr "Digitaliserat, Adlib, högtalare"
 
 msgctxt "#30074"
 msgid "Digitized, Adlib"
-msgstr ""
+msgstr "Digitaliserat, Adlib"
 
 msgctxt "#30075"
 msgid "Digitized, Speaker"
-msgstr ""
+msgstr "Digitaliserat, högtalare"
 
 msgctxt "#30076"
 msgid "Digitized only"
-msgstr ""
+msgstr "Endast digitaliserat"
 
 msgctxt "#30077"
 msgid "Adlib only"
-msgstr ""
+msgstr "Endast Adlib"
 
 msgctxt "#30078"
 msgid "Speaker only"
-msgstr ""
+msgstr "Endast högtalare"
 
 msgctxt "#30079"
 msgid "Force a video aspect"
-msgstr ""
+msgstr "Tvinga ett videobildformat"
 
 msgctxt "#30080"
 msgid "Auto"
-msgstr ""
+msgstr "Automatiskt"
 
 msgctxt "#30081"
 msgid "Enable invulnerability (cheat)."
-msgstr ""
+msgstr "Aktivera osårbarhet (fusk)."
 
 msgctxt "#30082"
 msgid "Increases speed at cost of memory and initial load times"
-msgstr ""
+msgstr "Ökar hastigheten på bekostnad av minne och inledande inläsningstid"
 
 msgctxt "#30083"
 msgid "Multiplier for horizontal panning from 0 to 20"
-msgstr ""
+msgstr "Multiplikator för horisontell panorering från 0 till 20"
 
 msgctxt "#30084"
 msgid "Multiplier for vertical panning from 0 to 20"
-msgstr ""
+msgstr "Multiplikator för vertikal panorering från 0 till 20"
 
 msgctxt "#30085"
 msgid "1"
-msgstr ""
+msgstr "1"
 
 msgctxt "#30086"
 msgid "2"
-msgstr ""
+msgstr "2"
 
 msgctxt "#30087"
 msgid "3"
-msgstr ""
+msgstr "3"
 
 msgctxt "#30088"
 msgid "4"
-msgstr ""
+msgstr "4"
 
 msgctxt "#30089"
 msgid "20"
-msgstr ""
+msgstr "20"
 
 msgctxt "#30090"
 msgid "16:9"
-msgstr ""
+msgstr "16:9"
 
 msgctxt "#30091"
 msgid "4:3"
-msgstr ""
+msgstr "4:3"
 
 msgctxt "#30092"
 msgid "16:10"
-msgstr ""
+msgstr "16:10"
 
 msgctxt "#30093"
 msgid "17:10"
-msgstr ""
+msgstr "17:10"
 
 msgctxt "#30094"
 msgid "5:4"
-msgstr ""
+msgstr "5:4"
 
 msgctxt "#30095"
 msgid "21:9"
-msgstr ""
+msgstr "21:9"
 
 #~ msgctxt "#30023"
 #~ msgid "Dynamic FPS"
